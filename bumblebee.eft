@@ -1,0 +1,10 @@
+- Bumblebee
+
+InGameBackground: #958f7f : Color
+ButtonColor: #ffffaf : Color
+
+EntryCreationBackground: #595448 : Color
+EntryCreationTextColor: #ffffff : Color
+
+RecipeCreationBackground: #595448 : Color
+RecipeCreationTextColor: #ffffff : Color

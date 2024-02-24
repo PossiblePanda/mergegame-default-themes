@@ -1,0 +1,10 @@
+- AMOLED Theme
+
+InGameBackground: #171717 : Color
+ButtonColor: #aaaaaa : Color
+
+EntryCreationBackground: #171717 : Color
+EntryCreationTextColor: #FFFFFF : Color
+
+RecipeCreationBackground: #171717 : Color
+RecipeCreationTextColor: #FFFFFF : Color

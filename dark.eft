@@ -1,0 +1,10 @@
+- Dark Theme
+
+InGameBackground: #333333 : Color
+ButtonColor: #ffffff : Color
+
+EntryCreationBackground: #333333 : Color
+EntryCreationTextColor: #ffffff : Color
+
+RecipeCreationBackground: #333333 : Color
+RecipeCreationTextColor: #ffffff : Color

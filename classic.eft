@@ -1,0 +1,10 @@
+- Classic Theme
+
+InGameBackground: #8f7187 : Color
+ButtonColor: #beffff : Color
+
+EntryCreationBackground: #827a70 : Color
+EntryCreationTextColor: #ffffff : Color
+
+RecipeCreationBackground: #827a70 : Color
+RecipeCreationTextColor: #ffffff : Color

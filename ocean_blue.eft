@@ -1,0 +1,10 @@
+- Ocean Blue
+
+InGameBackground: #49508A : Color
+ButtonColor: #90A3CD : Color
+
+EntryCreationBackground: #49508A : Color
+EntryCreationTextColor: #D7DCFD : Color
+
+RecipeCreationBackground: #49508A : Color
+RecipeCreationTextColor: #D7DCFD : Color
